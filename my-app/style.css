@@ -1,0 +1,47 @@
+body {
+    margin: 20px 50px;
+}
+
+h1 {
+    color: #334433;
+    font-family: "Bebas Neue", cursive;
+    font-family: "Lobster", cursive;
+    font-size: 60px;
+}
+
+h2,
+p {
+    font-size: 30px;
+    color: #334433;
+    font-family: "Bebas Neue", cursive;
+    font-family: "Lobster", cursive;
+}
+
+i {
+    color: #334433;
+    font-size: 35px;
+}
+
+.conditions {
+    font-family: "Bebas Neue", cursive;
+    font-family: "Lobster", cursive;
+    font-size: 25px;
+    text-align: right;
+    top: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
+.container {
+    background: fixed;
+    background-color: #8ebc8f;
+    margin: 10px;
+    padding: 20px 20px;
+}
+
+.card-title,
+.card-body {
+    text-align: center;
+}
